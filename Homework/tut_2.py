@@ -40,12 +40,12 @@ print("*********\n*\n*\n*********\n\t*\n\t*\n*********")
 
 
 
-n=shimol
-s=Janub
-w=Garb
-e=Sharq
+#n=shimol
+#s=Janub
+#w=Garb
+#e=Sharq
 
-print("        Shimol\n\nG'arb\t\t Sharq \n\n\n\tJanub")
+#print("        Shimol\n\nG'arb\t\t Sharq \n\n\n\tJanub")
 
 
 name=input("Ismingizni yozing  ")
@@ -55,4 +55,5 @@ print(f"Salom, {name} {surname}, Siz bilan tanishganimdan xursandman!")
 
 print("{}ning {}isimli dugonasi va {} ismli singlisi bor" .format ("Muxlisa", "Munira", "Muyassar"))
 print("{2}ning {1}isimli dugonasi va {0} ismli singlisi bor".format ("Muxlisa", "Munira", "Muyassar")) 
+
 
